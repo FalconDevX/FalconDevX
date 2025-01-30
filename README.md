@@ -3,15 +3,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FalconDevX&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="FalconDevX's Stats" style="height: 200px;"/> 
 </div>
 
-<div style="margin-top: 20px; display: flex; flex-wrap: wrap; align-items: center;">
- 
+<div style="margin-top: 20px; display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <!-- Nagłówek "Technologies" -->
+  <p style="font-size: 20px; font-weight: bold;">Technologies:</p>
   
-  <!-- Ikony technologii, cztery pierwsze nad czterema ostatnimi -->
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- Ikony technologii w dwóch rzędach -->
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px;"/>
     <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" style="height: 40px;"/>
   </div>
-
-  <p style="margin-left: 10px; font-size: 20px; font-weight: bold;">Technologies:</p>
 </div>
+
 
