@@ -5,14 +5,8 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalconDevX&theme=tokyonight&hide_border=true" alt="Current Streak" style="height: 200px;"/>
-  <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px; "/>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" style="height: 40px; "/>
-<!--     <div style="display: flex; gap: 10px; align-items: center; height: 200px;">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px; vertical-align: middle;"/>
-        </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" style="height: 40px; vertical-align: middle;"/>
-        </a>
-    </div> -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px;"/>
+    <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" style="height: 40px;"/>
+  </div>
 </div>
