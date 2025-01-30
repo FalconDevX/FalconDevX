@@ -3,12 +3,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FalconDevX&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="FalconDevX's Stats" style="height: 200px;"/> 
 </div>
 
-<div style="margin-top: 20px; display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
+<div style="margin-top: 20px; display: flex; align-items: center; gap: 20px;">
   <!-- Obraz po lewej stronie -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalconDevX&theme=tokyonight&hide_border=true" alt="Current Streak" style="height: 200px;"/>
   
   <!-- Kontener z ikonami po prawej stronie -->
-  <div style="flex: 1; min-width: 300px;">
+  <div style="display: flex; flex-direction: column; gap: 10px;">
     <!-- Nagłówek "Technologies" -->
     <p style="font-size: 20px; font-weight: bold; margin: 0;">Technologies:</p>
     <!-- Dwa rzędy po 4 ikony -->
@@ -26,7 +26,6 @@
     </div>
   </div>
 </div>
-
 
 
 
