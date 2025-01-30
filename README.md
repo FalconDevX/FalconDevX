@@ -4,6 +4,7 @@
 </div>
 
 <div style="margin-top: 20px; display: flex; flex-direction: column; align-items: center; gap: 10px;">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalconDevX&theme=tokyonight&hide_border=true" alt="Current Streak" style="height: 200px; margin-right: 20px;"/>
   <!-- Nagłówek "Technologies" -->
   <p style="font-size: 20px; font-weight: bold;">Technologies:</p>
   
