@@ -5,15 +5,7 @@
 
 <div style="display: flex; margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalconDevX&theme=tokyonight&hide_border=true" alt="Current Streak" style="height: 200px;"/>
-   <p style="margin-left: 10px; font-size: 20px; font-weight: bold;">Technologies:</p>
-    <div style="display: flex; align-items: center; gap: 20px;">
-        <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px;"/>
-            </a>
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" style="height: 40px;"/>
-            </a>
-        </div>
-    </div>
+  <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px;"/>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" style="height: 40px;"/>
+  <p style="margin-left: 10px; font-size: 20px; font-weight: bold;">Technologies:</p>
 </div>
