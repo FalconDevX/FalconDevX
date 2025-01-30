@@ -5,8 +5,9 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalconDevX&theme=tokyonight&hide_border=true" alt="Current Streak" style="height: 200px;"/>
-    <!-- Technologies section aligned to the right and placed beside the image -->
-    <div style="display: flex; gap: 10px;">
+
+    <!-- Technologies section aligned to the right -->
+    <div style="display: flex; gap: 10px; align-items: center;">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px;"/>
         </a>
