@@ -2,21 +2,21 @@
   <!-- Nagłówek "Technologies" -->
   <p style="font-size: 20px; font-weight: bold;">Technologies:</p>
   
-  <!-- Kontener dla dwóch divów z ikonami -->
-  <div style="display: flex; gap: 10px;">
-    <!-- Pierwszy div z ikonami -->
-    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-      <img src="https://skillicons.dev/icons?i=dotnet" style="height: 40px; width: 100%;"/>
-      <img src="https://skillicons.dev/icons?i=cpp" style="height: 40px; width: 100%;"/>
-      <img src="https://skillicons.dev/icons?i=c" style="height: 40px; width: 100%;"/>
-      <img src="https://skillicons.dev/icons?i=python" style="height: 40px; width: 100%;"/>
+  <!-- Kontener dla dwóch kolumn -->
+  <div style="display: flex; gap: 20px;">
+    <!-- Pierwsza kolumna -->
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <img src="https://skillicons.dev/icons?i=dotnet" style="height: 40px;"/>
+      <img src="https://skillicons.dev/icons?i=cpp" style="height: 40px;"/>
+      <img src="https://skillicons.dev/icons?i=c" style="height: 40px;"/>
+      <img src="https://skillicons.dev/icons?i=python" style="height: 40px;"/>
     </div>
-    <!-- Drugi div z ikonami -->
-    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-      <img src="https://skillicons.dev/icons?i=js" style="height: 40px; width: 100%;"/>
-      <img src="https://skillicons.dev/icons?i=react" style="height: 40px; width: 100%;"/>
-      <img src="https://skillicons.dev/icons?i=html" style="height: 40px; width: 100%;"/>
-      <img src="https://skillicons.dev/icons?i=css" style="height: 40px; width: 100%;"/>
+    <!-- Druga kolumna -->
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <img src="https://skillicons.dev/icons?i=js" style="height: 40px;"/>
+      <img src="https://skillicons.dev/icons?i=react" style="height: 40px;"/>
+      <img src="https://skillicons.dev/icons?i=html" style="height: 40px;"/>
+      <img src="https://skillicons.dev/icons?i=css" style="height: 40px;"/>
     </div>
   </div>
 </div>
