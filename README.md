@@ -7,6 +7,10 @@
     <img src="https://skillicons.dev/icons?i=dotnet" style="height: 40px; width: 100%;"/>
     <img src="https://skillicons.dev/icons?i=cpp" style="height: 40px; width: 100%;"/>
   </div>
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; max-width: 350px;">
+    <img src="https://skillicons.dev/icons?i=dotnet" style="height: 40px; width: 100%;"/>
+    <img src="https://skillicons.dev/icons?i=cpp" style="height: 40px; width: 100%;"/>
+  </div>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
