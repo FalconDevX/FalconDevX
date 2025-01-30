@@ -5,7 +5,7 @@
 
 <div style="display: flex; margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalconDevX&theme=tokyonight&hide_border=true" alt="Current Streak" style="height: 200px;"/>
-  <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px; margin-bottom: 20px;"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px; margin-bottom: 100px;"/>
   <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" style="height: 40px;"/>
   <p style="margin-left: 10px; font-size: 20px; font-weight: bold;">Technologies:</p>
 </div>
