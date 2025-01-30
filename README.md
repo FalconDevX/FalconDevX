@@ -5,15 +5,13 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalconDevX&theme=tokyonight&hide_border=true" alt="Current Streak" style="height: 200px;"/>
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; height: 200px;">
-        <p><strong>Technologies:</strong></p>
-        <div style="display: flex; gap: 10px;">
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px;"/>
-            </a>
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" style="height: 40px;"/>
-            </a>
-        </div>
+    <!-- Technologies section aligned to the right and placed beside the image -->
+    <div style="display: flex; gap: 10px;">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px;"/>
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" style="height: 40px;"/>
+        </a>
     </div>
 </div>
