@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FalconDevX&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="FalconDevX's Stats" style="height: 200px;"/> 
 </div>
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+<div style="display: flex; margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalconDevX&theme=tokyonight&hide_border=true" alt="Current Streak" style="height: 200px;"/>
    <p style="margin-left: 10px; font-size: 20px; font-weight: bold;">Technologies:</p>
     <div style="display: flex; align-items: center; gap: 20px;">
