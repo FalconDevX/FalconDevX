@@ -4,7 +4,7 @@
 </div>
 
 <div style="margin-top: 20px; display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalconDevX&theme=tokyonight&hide_border=true" alt="Current Streak" style="height: 200px; margin-right: 20px;"/>
+ 
   
   <!-- Ikony technologii, cztery pierwsze nad czterema ostatnimi -->
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
