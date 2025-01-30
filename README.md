@@ -2,16 +2,16 @@
   <!-- Nagłówek "Technologies" -->
   <p style="font-size: 20px; font-weight: bold;">Technologies:</p>
   
-  <!-- Ikony technologii w jednej kolumnie -->
-  <div style="display: flex; flex-direction: column; gap: 10px; align-items: center; width: 150px;">
-    <img src="https://skillicons.dev/icons?i=dotnet" style="height: 40px; width: 100%;"/>
-    <img src="https://skillicons.dev/icons?i=cpp" style="height: 40px; width: 100%;"/>
-    <img src="https://skillicons.dev/icons?i=c" style="height: 40px; width: 100%;"/>
-    <img src="https://skillicons.dev/icons?i=python" style="height: 40px; width: 100%;"/>
-    <img src="https://skillicons.dev/icons?i=js" style="height: 40px; width: 100%;"/>
-    <img src="https://skillicons.dev/icons?i=react" style="height: 40px; width: 100%;"/>
-    <img src="https://skillicons.dev/icons?i=html" style="height: 40px; width: 100%;"/>
-    <img src="https://skillicons.dev/icons?i=css" style="height: 40px; width: 100%;"/>
+  <!-- Ikony technologii w dwóch rzędach po 4 ikony -->
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=dotnet" style="height: 40px;"/>
+    <img src="https://skillicons.dev/icons?i=cpp" style="height: 40px;"/>
+    <img src="https://skillicons.dev/icons?i=c" style="height: 40px;"/>
+    <img src="https://skillicons.dev/icons?i=python" style="height: 40px;"/>
+    <img src="https://skillicons.dev/icons?i=js" style="height: 40px;"/>
+    <img src="https://skillicons.dev/icons?i=react" style="height: 40px;"/>
+    <img src="https://skillicons.dev/icons?i=html" style="height: 40px;"/>
+    <img src="https://skillicons.dev/icons?i=css" style="height: 40px;"/>
   </div>
 </div>
 
