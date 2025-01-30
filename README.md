@@ -3,11 +3,11 @@
   <p style="font-size: 20px; font-weight: bold;">Technologies:</p>
   
   <!-- Ikony technologii w dwóch rzędach po 4 ikony -->
-  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; max-width: 50px;">
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; max-width: 100px;">
     <img src="https://skillicons.dev/icons?i=dotnet" style="height: 40px; width: 100%;"/>
     <img src="https://skillicons.dev/icons?i=cpp" style="height: 40px; width: 100%;"/>
   </div>
-  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; max-width: 50px;">
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; max-width: 100px;">
     <img src="https://skillicons.dev/icons?i=dotnet" style="height: 40px; width: 100%;"/>
     <img src="https://skillicons.dev/icons?i=cpp" style="height: 40px; width: 100%;"/>
   </div>
