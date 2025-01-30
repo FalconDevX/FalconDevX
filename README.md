@@ -8,7 +8,7 @@
   <p style="font-size: 20px; font-weight: bold;">Technologies:</p>
   
   <!-- Ikony technologii w dwóch rzędach -->
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 350px;">
     <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px;"/>
     <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" style="height: 40px;"/>
   </div>
