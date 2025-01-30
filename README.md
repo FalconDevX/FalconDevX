@@ -6,17 +6,16 @@
 <div style="display: flex; justify-content: space-between; margin-top: 20px; align-items: flex-start;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalconDevX&theme=tokyonight&hide_border=true" alt="Current Streak" style="height: 200px;"/>
     <!-- Technologies section aligned to the right -->
-    <div style="display: flex; flex-direction: column; justify-content: flex-start; align-items: flex-start; margin-left: 20px;">
-        <p><strong>Technologies:</strong></p>
-        <p align="center">
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px;"/>
-            </a>
-        </p>
-        <p align="center">
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark" style="height: 40px;"/>
-            </a>
-        </p>
-    </div>
+    <p><strong>Technologies:</strong></p>
+    <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" style="height: 40px;"/>
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" style="height: 40px;"/>
+        </a>
+    </p>
+
 </div>
