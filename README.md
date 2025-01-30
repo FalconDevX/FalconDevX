@@ -4,4 +4,5 @@
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalconDevX&theme=tokyonight&hide_border=true" alt="Current Streak" style="height: 200px;"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FalconDevX&theme=github" alt="Current Streak" style="height: 200px;"/>
 </div>
