@@ -7,7 +7,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalconDevX&theme=tokyonight&hide_border=true" alt="Current Streak" style="height: 200px;"/>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,c,cmake,rust&theme=dark" />
+            <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python&theme=dark" />
         </a>
     </p>
     <p align="center">
@@ -15,10 +15,6 @@
             <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark" />
         </a>
     </p>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=bash,perl&theme=dark" />
-        </a>
-    </p>
+
 
 </div>
